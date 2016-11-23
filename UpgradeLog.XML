@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="flow_simulator">
+</Property><Property Name="Файл решения" Value="C:\Users\Denis\Desktop\flow_simulator (v1.4)\flow_simulator.sln">
+</Property><Property Name="Date" Value="3 декабря 2014 г.">
+</Property><Property Name="Time" Value="14:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="flow_simulator.sln" Description="Успешно создана резервная копия файла C:\Users\Denis\Desktop\flow_simulator (v1.4)\flow_simulator.sln.old">
+</Event><Event ErrorLevel="0" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Converting project file 'C:\Users\Denis\Desktop\flow_simulator (v1.4)\flow_simulator.vcproj'.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Done converting to new project file 'C:\Users\Denis\Desktop\flow_simulator (v1.4)\flow_simulator.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="flow_simulator" Source="flow_simulator.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="flow_simulator.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="flow_simulator.sln" Description="Converted">
+</Event></UpgradeLog>
